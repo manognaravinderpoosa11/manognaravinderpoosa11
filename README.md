@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <h1 align="center">Hey Everyone 👋, I'm Poosa Manogna</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<html lang="en">
+
 <h3 align="center">A passionate Software Engineer From India.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manognaravinder11&label=Profile%20views&color=0e75b6&style=flat" alt="manognaravinder11" /> </p>
@@ -17,6 +19,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manognaravinder11&show_icons=true&locale=en&layout=compact" alt="manognaravinder11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manognaravinder11&" alt="manognaravinder11" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manognaravinder11&" alt="manognaravinder11" /</p>
+</body>
+</html>
+
+
 
 
